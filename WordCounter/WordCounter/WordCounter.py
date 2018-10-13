@@ -37,14 +37,3 @@ word2 = input()
 
 #выполнение функции
 DistanceCounter(sentence, word1, word2)
-
-
-
-
-
-       
-
-
-
-
-
