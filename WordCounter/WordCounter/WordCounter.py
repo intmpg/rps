@@ -41,7 +41,6 @@ def DistanceCounter(sentence, word1, word2):
         print("Min distance: ", minDist - 1)
         print("Max distance: ", maxDist - 1)
         
-
 #ввод данных
 sentence = input()
 word1 = input()
